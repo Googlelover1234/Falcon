@@ -1,0 +1,6 @@
+# Plugin made by Jeremy Gooch (Googlelover1234) #
+# Setup is pretty basic, just use the following format #
+# [ItemID]: [Amount per level of Fortune] #
+# For example, the example below is diamond block, and every fortune level they have, they will get 2 blocks, etc #
+items:
+  57: 2
