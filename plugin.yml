@@ -1,0 +1,9 @@
+name: Falcon
+version: ALPHA
+description: Plugin that enables fortune to work on blocks other than ores, including, but not limited to, solid blocks. All Rights Reserved.
+main: net.verendus.main.Main
+author: Jeremy Gooch (Googlelover1234)
+commands:
+  falcon:
+    description: Main command.
+    usage: /<command> [reload]
